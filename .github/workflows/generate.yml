@@ -2,7 +2,7 @@ name: Generate Kino JSON
 
 on:
   schedule:
-    - cron: "0 10 * * *"  # 09:10 UTC (v zimě 10:10 Praha)
+    - cron: "45 9 * * *"  
   workflow_dispatch:
 
 permissions:
