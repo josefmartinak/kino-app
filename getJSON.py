@@ -5,6 +5,7 @@ import re
 import unicodedata
 from lxml import etree
 from datetime import datetime
+import pathlib
 
 ORGID = 1756
 EMAIL = "kino@mufrenstat.cz"
@@ -14,7 +15,7 @@ SOAP_URL = "https://data-centrala.colosseum.eu/ColosseumDataService.asmx"
 WEB_BASE = "https://www.kinofrenstat.cz/program/"
 RES_BASE = "https://online.colosseum.eu/kulturafrenstat/standard/Hall/Index/"
 
-OUTPUT_FILE_PATH = "soubor.json" # absolute path
+OUTPUT_FILE_PATH = "docs/kino-frenstat.json" # absolute path
 
 # Omezení - jednou za 10 minut
 
@@ -58,6 +59,9 @@ def extract_export_xml(soap_response):
     return etree.fromstring(raw_xml.encode("utf-8"), parser)
 
 def main():
+
+    pathlib.Path("docs").mkdir(exist_ok=True)
+
     soap_resp = soap_request()
     export_root = extract_export_xml(soap_resp)
 
