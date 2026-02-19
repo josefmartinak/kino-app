@@ -1,4 +1,4 @@
-name: Schedule Test
+name: Schedule Test Minimal
 
 on:
   schedule:
@@ -10,5 +10,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: |
-          echo "UTC:"; date -u
-          echo "Local:"; date
+          echo "Event=$GITHUB_EVENT_NAME"
+          date -u
