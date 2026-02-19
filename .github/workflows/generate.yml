@@ -2,7 +2,7 @@ name: Generate Kino JSON
 
 on:
   schedule:
-    - cron: "30 8 * * *"   # denně 08:30 UTC
+    - cron: "0 10 * * *"  # 09:10 UTC (v zimě 10:10 Praha)
   workflow_dispatch:
 
 permissions:
@@ -19,13 +19,15 @@ jobs:
         with:
           python-version: "3.11"
 
-      - run: pip install -r requirements.txt
+      - name: Install deps
+        run: pip install -r requirements.txt
 
-      - run: python getJSON.py
+      - name: Run generator
+        run: python getJSON.py
 
-      - name: Commit if changed
+      - name: Commit & push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/kino-frenstat.json
-          git diff --cached --quiet || (git commit -m "Update JSON" && git push)
+          git add docs/kino-frenstat.json docs/kino-frenstat.meta.json
+          git diff --cached --quiet || (git commit -m "Update kino JSON" && git push)
