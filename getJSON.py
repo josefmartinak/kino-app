@@ -17,7 +17,6 @@ EMAIL = "kino@mufrenstat.cz"
 SOAP_URL = "https://data-centrala.colosseum.eu/ColosseumDataService.asmx"
 
 WEB_BASE = "https://www.kinofrenstat.cz/program/"
-RES_BASE = "https://online.colosseum.eu/kulturafrenstat/standard/Hall/Index/"
 
 # GitHub Pages publikuje /docs jako statický web
 OUTPUT_DIR = Path("docs")
@@ -158,8 +157,7 @@ def generate_program(export_root: etree._Element) -> list[dict]:
             "language": lang,
             "description": title_data["description"],
             "image": title_data["image"],
-            "program_url": f"{WEB_BASE}{tprid}-{slug}",
-            "reservation_url": f"{RES_BASE}{prdid}" if prdid else ""
+            "program_url": f"{WEB_BASE}{tprid}-{slug}"
         })
 
     program.sort(key=lambda x: x["datetime"])
