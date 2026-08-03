@@ -1,21 +1,5 @@
 [
   {
-    "datetime": "2026-08-02 17:30",
-    "title": "Dovolená v Českém ráji",
-    "language": "Originál",
-    "description": "",
-    "image": "https://katalogy.atisnet.cz/upload/dxatis/poster/filmy/2026/F26024-001-Npbn2w-3dg1mw.jpg",
-    "program_url": "https://www.kinofrenstat.cz/program/398036-dovolena-v-ceskem-raji"
-  },
-  {
-    "datetime": "2026-08-02 20:00",
-    "title": "Mouchy",
-    "language": "Originál",
-    "description": "",
-    "image": "",
-    "program_url": "https://www.kinofrenstat.cz/program/398078-mouchy"
-  },
-  {
     "datetime": "2026-08-05 17:30",
     "title": "Tlapková patrola: Dinosauří film",
     "language": "CZ dabing",
@@ -78,6 +62,14 @@
     "description": "",
     "image": "https://katalogy.atisnet.cz/upload/dxatis/poster/filmy/2026/F26024-001-Npbn2w-3dg1mw.jpg",
     "program_url": "https://www.kinofrenstat.cz/program/398036-dovolena-v-ceskem-raji"
+  },
+  {
+    "datetime": "2026-08-09 20:00",
+    "title": "Hořké svátky",
+    "language": "Originál",
+    "description": "",
+    "image": "",
+    "program_url": "https://www.kinofrenstat.cz/program/398422-horke-svatky"
   },
   {
     "datetime": "2026-08-13 17:30",
@@ -150,5 +142,13 @@
     "description": "",
     "image": "",
     "program_url": "https://www.kinofrenstat.cz/program/397706-odyssea"
+  },
+  {
+    "datetime": "2026-08-30 17:30",
+    "title": "Terminátor 2: Den zúčtování",
+    "language": "CZ dabing",
+    "description": "Ultimání sci-fi blockbuster Terminátor 2: Den zúčtování od vizionářského režiséra Jamese Camerona navždy změnil akční žánr. Arnold Schwarzenegger se vrátil a tentokrát je ochráncem.\n\nV budoucnosti ovládané stroji drží mladý John Connor klíč k přežití lidstva. Když je přeprogramovaný Terminátor vyslán zpět v čase, aby ho ochránil, objevuje se nová hrozba: T-1000. Je děsivým zabijákem nové generace se schopností přeměnit se kdekoliv v kohokoliv. Žádná pravidla. Žádné limity. Žádné slitování.\n\nZatímco se Sarah Connorová snaží zastavit Soudný den dříve, než vůbec nastavne, osud lidstva visí na vlásku. Film získal čtyři Oscary a s ikonickými akčními scénami, legendárními hláškami a přelomovými vizuálními efekty navždy změnil kinematografii.",
+    "image": "https://katalogy.atisnet.cz/upload/dxatis/poster/filmy/1991/PAN26006-001-BnzTqA-0E5aYA.jpg",
+    "program_url": "https://www.kinofrenstat.cz/program/398752-terminator-2-den-zuctovani"
   }
 ]
