@@ -225,19 +225,19 @@
   },
   {
     "datetime": "2026-09-26 17:30",
-    "title": "Avengers: Endgame - Special Edition",
-    "language": "CZ dabing",
-    "description": "Hrozivé události způsobené Thanosem, který vyhladil polovinu života ve vesmíru a&nbsp;silně oslabil Avengers, vedou zbylé superhrdiny k&nbsp;tomu, aby ve strhujícím finále 22 filmů studia Marvel zvaném&nbsp;Avengers: Endgame&nbsp;sebrali poslední síly a&nbsp;pokusili se vrátit úder.",
-    "image": "",
-    "program_url": "https://www.kinofrenstat.cz/program/400047-avengers-endgame-special-edition"
-  },
-  {
-    "datetime": "2026-09-26 20:00",
     "title": "Osamělý vlk",
     "language": "Originál",
     "description": "",
     "image": "https://katalogy.atisnet.cz/upload/dxatis/poster/filmy/2026/F26028-002-nsD8wb-5trnGZ.jpg",
     "program_url": "https://www.kinofrenstat.cz/program/398967-osamely-vlk"
+  },
+  {
+    "datetime": "2026-09-26 20:00",
+    "title": "Avengers: Endgame - Special Edition",
+    "language": "CZ dabing",
+    "description": "Hrozivé události způsobené Thanosem, který vyhladil polovinu života ve vesmíru a&nbsp;silně oslabil Avengers, vedou zbylé superhrdiny k&nbsp;tomu, aby ve strhujícím finále 22 filmů studia Marvel zvaném&nbsp;Avengers: Endgame&nbsp;sebrali poslední síly a&nbsp;pokusili se vrátit úder.",
+    "image": "",
+    "program_url": "https://www.kinofrenstat.cz/program/400047-avengers-endgame-special-edition"
   },
   {
     "datetime": "2026-09-27 10:00",
