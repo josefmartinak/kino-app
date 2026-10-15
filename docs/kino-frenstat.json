@@ -1,13 +1,5 @@
 [
   {
-    "datetime": "2026-10-14 17:30",
-    "title": "Fjord - TADY VARY",
-    "language": "Originál + titulky",
-    "description": "",
-    "image": "",
-    "program_url": "https://www.kinofrenstat.cz/program/401484-fjord-tady-vary"
-  },
-  {
     "datetime": "2026-10-17 15:00",
     "title": "Pejsek Fešák",
     "language": "CZ dabing",
@@ -230,5 +222,13 @@
     "description": "Začínají desáté Hladové hry. Osmnáctiletý Coriolanus Snow čeká jen na to, jak v nich zazáří. Tentokrát jako mentor jednoho z vyvolených. Tvrdě dřel, aby dokázal naplno využít svůj šarm, znalosti a dovednosti, které mohou dovést vyvoleného k vítětství. Bohužel, štěstěna mu není nakloněna. Dostal ponižující úkol. Trénovat největšího outsidera, dívčí zástupkyni chudého dvanáctého kraje Lucy Gray. V aréně bude probíhat boj na život a na smrt. Mimo arénu se v Coriolanovi ale probouzejí city... a tak se musí rozhodnout, zda bude dodržovat pravidla nebo se bude řídit pudem sebezáchovy, který mu radí něco jiného. Boj o přežití nakonec odhalí, kdo je nevinné ptáče a kdo had, čekající na svou příležitost zaútočit.",
     "image": "https://katalogy.atisnet.cz/upload/dxatis/fotky/filmy/2023/Z23004-poster-P4YuAt-VOrnFl.jpg",
     "program_url": "https://www.kinofrenstat.cz/program/364834-hunger-games-balada-o-ptacich-a-hadech"
+  },
+  {
+    "datetime": "2026-11-25 17:30",
+    "title": "Něco jako rodina I Dámská jízda",
+    "language": "Originál",
+    "description": "",
+    "image": "",
+    "program_url": "https://www.kinofrenstat.cz/program/402082-neco-jako-rodina-i-damska-jizda"
   }
 ]
