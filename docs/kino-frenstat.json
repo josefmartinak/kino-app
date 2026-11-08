@@ -1,53 +1,5 @@
 [
   {
-    "datetime": "2026-11-07 14:00",
-    "title": "Hunger Games - Filmový maraton",
-    "language": "Originál + titulky",
-    "description": "4 filmy za cenu jednoho",
-    "image": "data/1756/titles/289494ac-82c0-4891-849f-bc9fa75004bf.jpg",
-    "program_url": "https://www.kinofrenstat.cz/program/401401-hunger-games-filmovy-maraton"
-  },
-  {
-    "datetime": "2026-11-07 14:00",
-    "title": "Hunger Games (re-release)",
-    "language": "Originál + titulky",
-    "description": "",
-    "image": "https://katalogy.atisnet.cz/upload/dxatis/poster/filmy/2026/$$$CuOsogY-001-It6txV-WfIecr.jpg",
-    "program_url": "https://www.kinofrenstat.cz/program/400432-hunger-games-re-release"
-  },
-  {
-    "datetime": "2026-11-07 16:30",
-    "title": "Hunger Games: Vražedná pomsta (re-release)",
-    "language": "Originál + titulky",
-    "description": "",
-    "image": "https://katalogy.atisnet.cz/upload/dxatis/poster/filmy/2026/$$$AV6CXKT-001-yIaVop-AcY0zP.jpg",
-    "program_url": "https://www.kinofrenstat.cz/program/400431-hunger-games-vrazedna-pomsta-re-release"
-  },
-  {
-    "datetime": "2026-11-07 19:00",
-    "title": "Hunger Games: Síla Vzdoru 1.část",
-    "language": "Originál + titulky",
-    "description": "Proti všem očekáváním přežila Katniss hladové hry dvakrát, ale ani poté nemá klid. V zemi Panem vypuklo povstání. Kapitol je naštvaný a chce pomstu. Kdo by měl za nepokoje zaplatit? Katniss. A co je nejhorší? Prezident Snow dal jasně najevo, že v bezpečí není vůbec nikdo. Bude připravovaná revoluce v čele s Katniss úspěšná? Cena může být hodně vysoká.\nKatniss Everdeenová prožívá nejtěžší období svého života. Ačkoli z Her čtvrtstoletí jakžtakž vyvázla se zdravou kůží a máma se sestrou jsou v bezpečí, její starosti ještě neskončily. Capitol srovnal se zemí Dvanáctý obvod, zahynuly tisíce lidí a Katniss pronásleduje pocit viny. Navíc Peeta Mellark, její partner z Her, zůstal v rukou nepřátel. Na čelo odboje se postavil Třináctý obvod, i když jen donedávna se o jeho existenci téměř nic nevědělo. Válka přináší oběti na obou stranách, rozdíly mezi dobrem a zlem se stále více stírají. Vítězství se sice přiklání na stranu rebelů, ale konec je stále v nedohlednu. Krveprolití může zastavit pouze Katniss. Pokud chce zachránit Peetu, zabránit dalšímu maření životů, porazit Sídlo a nenáviděného prezidenta Snowa, musí se znovu chopit symbolu Reprodrozda. Opět zjišťuje, že o svém osudu nerozhoduje sama, ale do jisté míry se stává nástrojem v mocenském souboji. A stále nevyřešila dilema, kterému ze dvou nejbližších přátel patří její city ...",
-    "image": "https://katalogy.atisnet.cz/upload/dxatis/poster/filmy/2014/Z14010-001-DcDLy5-2Vggyp.jpg",
-    "program_url": "https://www.kinofrenstat.cz/program/400433-hunger-games-sila-vzdoru-1cast"
-  },
-  {
-    "datetime": "2026-11-07 21:10",
-    "title": "Hunger Games: Síla vzdoru 2. část ",
-    "language": "Originál + titulky",
-    "description": "V poslední kapitole nepůjde jen o přežití, ale bude se bojovat o budoucnost obyvatel celého Panemu. Konečné zúčtování s nenáviděným prezidentem Snowem (Donald Sutherland) se blíží. Reprodrozd Katniss spolu se skupinou nejbližších přátel, včetně Gala (Liam Hemsworth), Finnicka (Sam Claflin) a Peety (Josh Hutcherson), povede rebely v jejich boji za svobodou. Jednotka z 13. kraje se vydává na misi, jejímž cílem je zničit prezidenta a skoncovat s jeho tyranií. Na Katniss však tentokrát čeká mnohem nebezpečnější nepřítel, než ten s jakým se dosud setkala v aréně Hladových her.",
-    "image": "https://katalogy.atisnet.cz/upload/dxatis/poster/filmy/2015/Z15015-001-RPhvzM-vwrTCM.jpg",
-    "program_url": "https://www.kinofrenstat.cz/program/400434-hunger-games-sila-vzdoru-2-cast"
-  },
-  {
-    "datetime": "2026-11-08 10:00",
-    "title": "Kocour v klobouku",
-    "language": "CZ dabing",
-    "description": "Populární postava z pera Dr. Seusse ožívá ve své vůbec první celovečerní animované podobě ve vizuálně bohatém, hravém a fantazií nabitém příběhu. Kocour v klobouku, mistr chaosu a dobré nálady, tentokrát čelí své dosud nejtěžší výzvě. Jako člen I.I.I.I. – Institutu pro imaginaci a inspiraci – má za úkol pomoci dvěma sourozencům, Gabby a Sebastianovi, vyrovnat se se stěhováním do nového města. Do jejich světa tak vstupuje podivuhodný tvor s magickým kloboukem, který sebou přináší zmatek, bláznivé nápady a pořádnou dávku kouzel. Film zve diváky do světa, kde je možné naprosto cokoli – a kde se s humorem i citem dotýká témat změn, představivosti a síly přátelství.",
-    "image": "https://katalogy.atisnet.cz/upload/dxatis/poster/filmy/2026/FRE26018-001-HGS0gh-22c4Fq.jpg",
-    "program_url": "https://www.kinofrenstat.cz/program/401955-kocour-v-klobouku"
-  },
-  {
     "datetime": "2026-11-08 16:00",
     "title": "Hunger Games: Balada o ptácích a hadech",
     "language": "Originál + titulky",
